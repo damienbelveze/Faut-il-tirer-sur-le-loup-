@@ -1,4 +1,4 @@
-# Faut il tirer sur le loup ?
+# Faut il tirer sur le loup : atelier d'évaluation de l'information à destination d'étudiants en Master.
 
 ## Organisation matérielle
 
