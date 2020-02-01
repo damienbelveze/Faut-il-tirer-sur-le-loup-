@@ -1,6 +1,16 @@
-# Faut-il-tirer-sur-le-loup-
+# Faut il tirer sur le loup ?
 
-L'atelier décrit ici est destiné à des étudiants de niveau Master en Sciences de l'Environnement mais peut-être également appliqué à d'autres disciplines. Les étudiants sont invités à mesurer leurs partis-pris initiaux en matière d'écologie, de défense des petites exploitations, de respect de la nature animal sans avoir connaissance du thème de l'atelier. A l'issue de cette évaluation, on leur remet les documents sous deux formes :
+## Organisation matérielle
+
+Séance de 2 heures pour une vingtaine d'étudiants.
+
+## Cible
+
+L'atelier décrit ici est destiné à des étudiants de niveau Master en Sciences de l'Environnement mais peut-être également appliqué à d'autres disciplines. 
+
+## Déroulement
+
+Les étudiants sont invités à mesurer leurs partis-pris initiaux en matière d'écologie, de défense des petites exploitations, de respect de la nature animal sans avoir connaissance du thème de l'atelier. A l'issue de cette évaluation, on leur remet les documents sous deux formes :
 
 - Captures d'écran (pas de possibilité de naviguer sur le web)
 - Liens vers les articles (possibilité de navigation sur le web) A l'issue de chaque phase on demande aux étudiants de noter un score de fiabilité de l'information pour chaque document.
